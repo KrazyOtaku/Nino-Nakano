@@ -1,24 +1,24 @@
-![Cutiepii](https://telegra.ph/file/2e61aafdbc29d0205d980.png)
-# Cutiepii Robot 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-Cutiepii-red)](https://t.me/Cutiepii_Updates) [![Join Support!](https://img.shields.io/badge/Support%20Chat-Cutiepii-red)](https://t.me/Cutieppii_Support)
+![Kanna Kamui](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F674203006691739135%2F&psig=AOvVaw1G9JRJZP4xtsSaT7KuqbKk&ust=1612014187781000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODz64Gjwe4CFQAAAAAdAAAAABAD)
+# Kanna Kamui Robot 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-Kanna-red)](https://t.me/Kanna_Updates) [![Join Support!](https://img.shields.io/badge/Support%20Chat-Kanna-red)](https://t.me/Dragon_Ball_Chat)
 
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Cutiepii suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Cutiepii Robot](https://t.me/Cutiepii_Robot).
+Can be found on telegram as [Kanna Robot](https://t.me/Kanna_Robot).
 
-The Support group can be reached out to at [Cutiepii Support](https://t.me/Cutiepii_Support), where you can ask for help about [Cutiepii Robot](https://t.me/Cutiepii_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Dragon Ball Chat](https://t.me/Dragon_Ball_Chat), where you can ask for help about [Kanna_Robot](https://t.me/Kanna_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [Cutiepii Updates](https://t.me/Cutiepii_Updates) 
+News channel as at [Kanna Updates](https://t.me/Kanna_Updates) 
 
 
 ## Stats
-![Rajkumar's Github stats](https://github-readme-stats.vercel.app/api?username=Rajkumar-27&show_icons=true&theme=tokyonight)
+![Goku Kun's Github stats](https://github-readme-stats.vercel.app/api?username=Rajkumar-27&show_icons=true&theme=tokyonight)
 
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
- - Edit any mentions of @Cutiepii_Support to your own support chat. 
+ - Edit any mentions of @Dragon_Ball_Chat to your own support chat. 
  - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot. [See this](https://github.com/Rajkumar-27/test-1-cutiepii/blob/shiken/CutiepiiRobot/__main__.py#L25)
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats.
 

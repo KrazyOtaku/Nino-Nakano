@@ -40,7 +40,7 @@ def ban(update: Update, context: CallbackContext) -> str:
         member = chat.get_member(user_id)
     except BadRequest as excp:
         if excp.message == "User not found":
-            message.reply_text("Can't seem to find this person.")
+            message.reply_text("Can't seem to find this person 😐😶")
             return log_message
         else:
             raise
@@ -52,27 +52,27 @@ def ban(update: Update, context: CallbackContext) -> str:
     if is_user_ban_protected(chat, user_id, member) and user not in DEV_USERS:
         if user_id == OWNER_ID:
             message.reply_text(
-                "Rias-sama is my everything. Don't ever think about it.")
+                "Owner is my everything. Don't ever think about banning him!")
             return log_message
         elif user_id in DEV_USERS:
             message.reply_text("I can't act against our own.")
             return log_message
         elif user_id in DRAGONS:
             message.reply_text(
-                "No!, Issei is Red dragon emperor. YOU WILL GET BANNED BY RIAS FOR YOUR BAD INTENSIONS.")
+                "Nope! no, no, no, no, I cannot ban pro people!")
             return log_message
         elif user_id in DEMONS:
             message.reply_text(
-                "Can't go against the member of Gremory family."
+                "Can't go against pro people."
             )
             return log_message
         elif user_id in TIGERS:
             message.reply_text(
-                "Wait...President Rias is coming...She will deal with you."
+                "No, Someone elsewill deal with you."
             )
             return log_message
         elif user_id in WOLVES:
-            message.reply_text("Cutie Cutie...Can't ban Rias's servants!")
+            message.reply_text("Can't ban pro peple!")
             return log_message
         else:
             message.reply_text("This user has immunity and cannot be banned.")
@@ -142,7 +142,7 @@ def temp_ban(update: Update, context: CallbackContext) -> str:
             raise
 
     if user_id == bot.id:
-        message.reply_text("I'm not gonna BAN myself, are you crazy?")
+        message.reply_text("Wah! Banning myself! I like this group sooooo much! I won't ban myself!")
         return log_message
 
     if is_user_ban_protected(chat, user_id, member):

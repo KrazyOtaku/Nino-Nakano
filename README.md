@@ -1,4 +1,4 @@
-![Kanna Kamui](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F674203006691739135%2F&psig=AOvVaw1G9JRJZP4xtsSaT7KuqbKk&ust=1612014187781000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODz64Gjwe4CFQAAAAAdAAAAABAD)
+![Kanna Kamui](https://telegra.ph/file/fdfb9cb3ac2f75173c0c3.jpg)
 # Kanna Kamui Robot 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-Kanna-red)](https://t.me/Kanna_Updates) [![Join Support!](https://img.shields.io/badge/Support%20Chat-Kanna-red)](https://t.me/Dragon_Ball_Chat)
 

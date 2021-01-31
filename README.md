@@ -1,25 +1,21 @@
 ![Kanna Kamui](https://telegra.ph/file/fdfb9cb3ac2f75173c0c3.jpg)
-# Kanna Kamui Robot 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-Kanna-red)](https://t.me/Kanna_Updates) [![Join Support!](https://img.shields.io/badge/Support%20Chat-Kanna-red)](https://t.me/Dragon_Ball_Chat)
+# Nino Nakano Robot 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-Nino-red)](https://t.me/Nino_Updates) [![Join Support!](https://img.shields.io/badge/Support%20Chat-Nino-red)](https://t.me/Dragon_Ball_Chat)
 
 
-A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Cutiepii suitable for Anime and Manga group chats. 
+A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Nino Nakano suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Kanna Robot](https://t.me/Kanna_Robot).
+Can be found on telegram as [Nino Robot](https://t.me/Nino_Robot).
 
-The Support group can be reached out to at [Dragon Ball Chat](https://t.me/Dragon_Ball_Chat), where you can ask for help about [Kanna_Robot](https://t.me/Kanna_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Dragon Ball Chat](https://t.me/Dragon_Ball_Chat), where you can ask for help about [Nino_Robot](https://t.me/Nino_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [Kanna Updates](https://t.me/Kanna_Updates) 
-
-
-## Stats
-![Goku Kun's Github stats](https://github-readme-stats.vercel.app/api?username=Rajkumar-27&show_icons=true&theme=tokyonight)
+News channel as at [Nino Updates](https://t.me/Nino_Updates) 
 
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
  - Edit any mentions of @Dragon_Ball_Chat to your own support chat. 
- - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot. [See this](https://github.com/Rajkumar-27/test-1-cutiepii/blob/shiken/CutiepiiRobot/__main__.py#L25)
+ - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot. [See this](https://github.com/Telegram-Friend/test-1-Nino-Nakano/blob/shiken/NinoNakano/__main__.py#L25)
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats.
 
 
@@ -197,7 +193,7 @@ You can use [nssm](https://nssm.cc/usage) to install the bot as service on windo
 Make sure to edit the start and restart bats to your needs. 
 Note: the restart bat requires that User account control be disabled.
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Cutiepii Support](https://t.me/Cutiepii_Support)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Dragon Ball Chat](https://t.me/Dragon_Ball_Chat)
 ## How to setup on Heroku 
 For starters click on this button 
 
@@ -205,12 +201,12 @@ For starters click on this button
 
 
 ## Credits
-The bot is based on the original work done by [Rajkumar](https://github.com/Rajkumar-27)
+The bot is based on the original work done by [Son Goku](https://github.com/telegram-friend)
 This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (will add it later, this note says unless it is done)
 
 Any other authorship/credits can be seen through the commits.
 
-Should any be missing kindly let us know at [Cutiepii Support](https://t.me/Cutiepii_Support) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [Dragon Ball Chat](https://t.me/Dragon_Ball_Chat) or simply submit a pull request on the readme.
 

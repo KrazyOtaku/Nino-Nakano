@@ -1,13 +1,13 @@
-![Kanna Kamui](https://telegra.ph/file/fdfb9cb3ac2f75173c0c3.jpg)
+![Kanna Kamui](https://telegra.ph/file/e87dbcf086ceae6bc3f41.jpg)
 # Nino Nakano Robot 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-Nino-red)](https://t.me/Nino_Updates) [![Join Support!](https://img.shields.io/badge/Support%20Chat-Nino-red)](https://t.me/Dragon_Ball_Chat)
 
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Nino Nakano suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Nino Robot](https://t.me/Nino_Robot).
+Can be found on telegram as [Nino Robot](https://t.me/NinoNakano_Robot).
 
-The Support group can be reached out to at [Dragon Ball Chat](https://t.me/Dragon_Ball_Chat), where you can ask for help about [Nino_Robot](https://t.me/Nino_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Dragon Ball Chat](https://t.me/Dragon_Ball_Chat), where you can ask for help about [Nino_Robot](https://t.me/NinoNakano_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 News channel as at [Nino Updates](https://t.me/Nino_Updates) 
 
@@ -15,7 +15,7 @@ News channel as at [Nino Updates](https://t.me/Nino_Updates)
 
 ### Read these notes carefully before proceeding 
  - Edit any mentions of @Dragon_Ball_Chat to your own support chat. 
- - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot. [See this](https://github.com/Telegram-Friend/test-1-Nino-Nakano/blob/shiken/NinoNakano/__main__.py#L25)
+ - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot. [See this](https://github.com/Telegram-Friend/test-1-Nino-Nakano/blob/shiken/Nino-Nakano/__main__.py#L25)
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats.
 
 
@@ -167,7 +167,7 @@ All that is needed is that your .py file is in the modules folder.
 
 To add commands, make sure to import the dispatcher via
 
-`from CutiepiiRobot import dispatcher`.
+`from NinoNakano_Robot import dispatcher`.
 
 You can then add commands using the usual
 
@@ -187,7 +187,7 @@ through the `/stats` command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-`python3 -m CutiepiiRobot`
+`python3 -m NinoNakano_Robot`
 
 You can use [nssm](https://nssm.cc/usage) to install the bot as service on windows and set it to restart on /gitpull 
 Make sure to edit the start and restart bats to your needs. 

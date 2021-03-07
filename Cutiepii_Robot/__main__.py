@@ -51,17 +51,17 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Welcome user: {}, , I am cutest bot:  Kanna! 
+Welcome user: {}, , I am strongest bot Son Goku! 
 
 I am an Anime themed advance group management bot with a lot of Special Features.
 
-You can also come in [my home](https://t.me/Dragon_Ball_Chat)!
+You can also come in [my home](https://t.me/GokuSupport)!
 
-Use /help to know my abilities [^_^](https://telegra.ph/file/d31755c8e0245be16c4f5.png).
+Use /help to know my abilities [^_^](https://telegra.ph/file/4cf0562f41d06c365eb8a.jpg).
 """
 
 HELP_STRINGS = """
-[Kanna](https://t.me/c/1179315872/5045813) at your service.
+[Son Goku](https://telegra.ph/file/4cf0562f41d06c365eb8a.jpg) at your service.
 I can help you with following functions in managing group.
 
 *Main* commands available:
@@ -79,13 +79,13 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://t.me/c/1179315872/5045813"
-CUTIEPINGIMG = "https://telegra.ph/file/213a05719a33e0e504cf9.gif"
+SAITAMA_IMG = "https://telegra.ph/file/4cf0562f41d06c365eb8a.jpg"
+CUTIEPINGIMG = "https://telegra.ph/file/4cf0562f41d06c365eb8a.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Cutiepii is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
-You can donate to the original writer of the Base code, Rajkumar
-There are two ways of supporting him; [PayPal](paypal.me/wadwialatech), or [Ko-Fi](ko-fi.com/Rajkumar)."""
+Son Goku is hosted on one of @AnimeKraze's Servers and doesn't require any donations as of now but \
+You can donate to the original writer of the Base code.
+There is 1 way of supporting him; [PayPal](paypal.me/PaulSonOfLars), Woohoo."""
 
 IMPORTED = {}
 MIGRATEABLE = []
